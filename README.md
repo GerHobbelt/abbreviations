@@ -1,2 +1,4 @@
 abbreviations
 =============
+
+Journal Title Abbreviations
